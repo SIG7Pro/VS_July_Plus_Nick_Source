@@ -1,0 +1,21 @@
+{
+    "name": "VS July Plus Nick'",
+    "description": "A fanmade, high effort remake/port of VS July, VS Nick, VS Nick Remastered, and VS Trey with some eXtra stuff! Original mods by July2612 (aka JukuaGenesis), NickPlayz1000, and TreyBWN. Mod compiled by SIG7; the rest of the people who helped/had some involvement are credited in credits. Stay safe!",
+    "titleBarName": "VS July",
+    "skinnableBFs": ["bf", "bf-car", "bf-christmas", "bf-dead"],
+    "skinnableGFs": ["gf", "gf-car", "gf-christmas", "gf-philly"],
+    "BFskins": [
+        {
+            "name" : "Boyfriend",
+            "char" : "bf"
+        }
+    ],
+    "GFskins": [
+        {
+            "name" : "Girlfriend",
+            "char" : "gf"
+        }
+    ],
+    "keyNumbers": [8],
+    "locked": false
+}
