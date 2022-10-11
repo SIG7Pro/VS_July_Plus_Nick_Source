@@ -1,1 +1,38 @@
-{"songs":[]}
+{
+	"songs": [
+		{
+			"difficulties": [
+				"Normal",
+				"Old"
+			],
+			"displayName": null,
+			"char": "july",
+			"name": "Slapper",
+			"color": "#9A0988",
+			"bpm": 180
+		},
+		{
+			"displayName": "Yes, Sonic is a rhythym gane indeed, Ms. July",
+			"difficulties": [
+				"Normal",
+				"Old"
+			],
+			"char": "july",
+			"name": "Sonic-Rhythm",
+			"color": "#212F67",
+			"bpm": 160
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "i dont know",
+			"char": "ivan-main",
+			"bpm": 150,
+			"name": "Bopeebo",
+			"color": "#FFA9FF"
+		}
+	]
+}
