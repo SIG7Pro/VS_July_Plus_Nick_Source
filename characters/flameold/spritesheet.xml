@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flamey.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlameDown0000" x="0" y="0" width="492" height="747" frameX="0" frameY="-16" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0001" x="492" y="0" width="468" height="702" frameX="0" frameY="-61" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0002" x="960" y="0" width="468" height="692" frameX="0" frameY="-71" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0003" x="1428" y="0" width="473" height="762" frameX="0" frameY="-2" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0004" x="1901" y="0" width="466" height="716" frameX="0" frameY="-48" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0005" x="2367" y="0" width="466" height="700" frameX="0" frameY="-64" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0006" x="2833" y="0" width="473" height="764" frameX="0" frameY="0" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0007" x="1901" y="0" width="466" height="716" frameX="0" frameY="-48" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0008" x="2367" y="0" width="466" height="700" frameX="0" frameY="-64" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0009" x="2833" y="0" width="473" height="764" frameX="0" frameY="0" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0010" x="1901" y="0" width="466" height="716" frameX="0" frameY="-48" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0011" x="2367" y="0" width="466" height="700" frameX="0" frameY="-64" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0012" x="2833" y="0" width="473" height="764" frameX="0" frameY="0" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0013" x="1901" y="0" width="466" height="716" frameX="0" frameY="-48" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameDown0014" x="2367" y="0" width="466" height="700" frameX="0" frameY="-64" frameWidth="492" frameHeight="764"/>
+	<SubTexture name="FlameIdle0000" x="3306" y="0" width="590" height="768" frameX="0" frameY="-6" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0001" x="0" y="768" width="590" height="721" frameX="0" frameY="-53" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0002" x="590" y="768" width="547" height="771" frameX="-36" frameY="-3" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0003" x="1137" y="768" width="507" height="725" frameX="-69" frameY="-49" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0004" x="1644" y="768" width="482" height="774" frameX="-94" frameY="0" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0005" x="2126" y="768" width="481" height="728" frameX="-95" frameY="-46" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0006" x="2607" y="768" width="481" height="705" frameX="-95" frameY="-69" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0007" x="3088" y="768" width="481" height="772" frameX="-95" frameY="-2" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0008" x="2126" y="768" width="481" height="728" frameX="-95" frameY="-46" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0009" x="2607" y="768" width="481" height="705" frameX="-95" frameY="-69" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0010" x="3088" y="768" width="481" height="772" frameX="-95" frameY="-2" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0011" x="2126" y="768" width="481" height="728" frameX="-95" frameY="-46" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0012" x="2607" y="768" width="481" height="705" frameX="-95" frameY="-69" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0013" x="3088" y="768" width="481" height="772" frameX="-95" frameY="-2" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameIdle0014" x="2126" y="768" width="481" height="728" frameX="-95" frameY="-46" frameWidth="590" frameHeight="774"/>
+	<SubTexture name="FlameLeft0000" x="3569" y="768" width="505" height="800" frameX="-10" frameY="0" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0001" x="0" y="1568" width="505" height="753" frameX="-10" frameY="-47" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0002" x="505" y="1568" width="488" height="733" frameX="-30" frameY="-67" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0003" x="993" y="1568" width="499" height="800" frameX="-21" frameY="0" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0004" x="1492" y="1568" width="520" height="753" frameX="0" frameY="-47" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0005" x="2012" y="1568" width="520" height="733" frameX="0" frameY="-67" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0006" x="2532" y="1568" width="520" height="800"/>
+	<SubTexture name="FlameLeft0007" x="1492" y="1568" width="520" height="753" frameX="0" frameY="-47" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0008" x="2012" y="1568" width="520" height="733" frameX="0" frameY="-67" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0009" x="2532" y="1568" width="520" height="800"/>
+	<SubTexture name="FlameLeft0010" x="1492" y="1568" width="520" height="753" frameX="0" frameY="-47" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0011" x="2012" y="1568" width="520" height="733" frameX="0" frameY="-67" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0012" x="2532" y="1568" width="520" height="800"/>
+	<SubTexture name="FlameLeft0013" x="1492" y="1568" width="520" height="753" frameX="0" frameY="-47" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameLeft0014" x="2012" y="1568" width="520" height="733" frameX="0" frameY="-67" frameWidth="520" frameHeight="800"/>
+	<SubTexture name="FlameRIght0000" x="3052" y="1568" width="582" height="762" frameX="-5" frameY="0" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0001" x="0" y="2368" width="554" height="715" frameX="-5" frameY="-47" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0002" x="554" y="2368" width="538" height="695" frameX="-3" frameY="-67" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0003" x="1092" y="2368" width="523" height="762" frameX="-1" frameY="0" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0004" x="1615" y="2368" width="522" height="715" frameX="0" frameY="-47" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0005" x="2137" y="2368" width="522" height="695" frameX="0" frameY="-67" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0006" x="2659" y="2368" width="522" height="762" frameX="0" frameY="0" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0007" x="1615" y="2368" width="522" height="715" frameX="0" frameY="-47" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0008" x="2137" y="2368" width="522" height="695" frameX="0" frameY="-67" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0009" x="2659" y="2368" width="522" height="762" frameX="0" frameY="0" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0010" x="1615" y="2368" width="522" height="715" frameX="0" frameY="-47" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0011" x="2137" y="2368" width="522" height="695" frameX="0" frameY="-67" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0012" x="2659" y="2368" width="522" height="762" frameX="0" frameY="0" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0013" x="1615" y="2368" width="522" height="715" frameX="0" frameY="-47" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameRIght0014" x="2137" y="2368" width="522" height="695" frameX="0" frameY="-67" frameWidth="587" frameHeight="762"/>
+	<SubTexture name="FlameUp0000" x="3181" y="2368" width="610" height="783" frameX="-5" frameY="0" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0001" x="0" y="3151" width="615" height="749" frameX="0" frameY="-34" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0002" x="615" y="3151" width="580" height="740" frameX="-37" frameY="-43" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0003" x="1195" y="3151" width="575" height="783" frameX="-43" frameY="0" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0004" x="1770" y="3151" width="573" height="749" frameX="-45" frameY="-34" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0005" x="2343" y="3151" width="573" height="740" frameX="-45" frameY="-43" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0006" x="2916" y="3151" width="573" height="783" frameX="-45" frameY="0" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0007" x="1770" y="3151" width="573" height="749" frameX="-45" frameY="-34" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0008" x="2343" y="3151" width="573" height="740" frameX="-45" frameY="-43" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0009" x="2916" y="3151" width="573" height="783" frameX="-45" frameY="0" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0010" x="1770" y="3151" width="573" height="749" frameX="-45" frameY="-34" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0011" x="2343" y="3151" width="573" height="740" frameX="-45" frameY="-43" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0012" x="2916" y="3151" width="573" height="783" frameX="-45" frameY="0" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0013" x="1770" y="3151" width="573" height="749" frameX="-45" frameY="-34" frameWidth="618" frameHeight="783"/>
+	<SubTexture name="FlameUp0014" x="2343" y="3151" width="573" height="740" frameX="-45" frameY="-43" frameWidth="618" frameHeight="783"/>
+</TextureAtlas>
