@@ -1,0 +1,165 @@
+{
+	"credits": [{
+			"name": "July2612",
+			"role": "Original Creator of VS July. (Stupid gay mofo.)",
+			"icon": "credits/july",
+			"urls": [{
+					"name": "YouTube",
+					"url": "https://www.youtube.com/channel/UCyV3oiWZy3oSMQ1M-ZKW_0w"
+				},
+				{
+					"name": "Twitter",
+					"url": "https://twitter.com/ym2612_girl"
+				},
+				{
+					"name": "Twitter (Alt)",
+					"url": "https://twitter.com/JukuaGenesis"
+				},
+				{
+					"name": "Steam",
+					"url": "https://steamcommunity.com/profiles/76561199057588715"
+				},
+				{
+					"name": "Spotify",
+					"url": "https://open.spotify.com/user/55899l48nv9lf9iucz8ippuq9"
+				},
+				{
+					"name": "GitHub",
+					"url": "https://github.com/July2612"
+				},
+				{
+					"name": "GameBanana",
+					"url": "https://gamebanana.com/members/1730359"
+				},
+				{
+					"name": "GameJolt (Ew)",
+					"url": "https://gamejolt.com/@July2612"
+				},
+				{
+					"name": "YouTube (Funky)",
+					"url": "https://www.youtube.com/channel/UC98c1hm0v655v-pYb9wo3wg"
+				},
+				{
+					"name": "YouTube (Extras)",
+					"url": "https://www.youtube.com/channel/UC5cNz3i47jXLrwZJCjlXyzQ"
+				},
+				{
+					"name": "YouTube (Music)",
+					"url": "https://www.youtube.com/channel/UCWRayVp-lfZTcz3dJDifdOA"
+				},
+				{
+					"name": "Twitch (Does she even use?)",
+					"url": "https://www.twitch.tv/july2612"
+				},
+				{
+					"name": "VS Nick Playthrough",
+					"url": "https://www.youtube.com/watch?v=FZGLFgw32XM"
+				}
+			]
+		},
+		{
+			"name": "NickPlayz1000",
+			"role": "y- Nick is very biased and helped with VS July's original spritework.",
+			"icon": "credits/nick",
+			"urls": [{
+					"name": "Twitter",
+					"url": "https://twitter.com/distayunionnock"
+				},
+				{
+					"name": "MyAnimeList (Woah)",
+					"url": "https://myanimelist.net/profile/Nickplayz1000"
+				},
+				{
+					"name": "Scratch (Harass him please.)",
+					"url": "https://scratch.mit.edu/users/NickPlayz1000"
+				},
+				{
+					"name": "GameBanana (Don't harass him please.)",
+					"url": "https://gamebanana.com/members/1946919"
+				},
+				{
+					"name": "YouTube (Don't subscribe.)",
+					"url": "https://www.youtube.com/c/NickPlayzz"
+				}
+			]
+		},
+		{
+			"name": "TreyBWN",
+			"role": "Made VS Trey, not included yet.",
+			"icon": "credits/nick",
+			"urls": [{
+					"name": "Twitter",
+					"url": "https://twitter.com/treybcwhynot?t=0cvMThXPO0yLGgyyDJu2tg&s=09"
+				},
+				{
+					"name": "YouTube",
+					"url": "https://www.youtube.com/watch?v=eY8zhImqymY&ab_channel=TreyBecauseWhyNot"
+				},
+				{
+					"name": "VS Nick Leak (Hey I'm in here!)",
+					"url": "https://www.youtube.com/watch?v=W55ot6TP-3E&ab_channel=TreyBecauseWhyNot"
+				}
+			]
+		},
+
+		{
+			"name": "Captain Kirb",
+			"role": "Original title screen script, go check her out, she seems cool.",
+			"icon": "credits/captainkrib",
+			"urls": [{
+					"name": "YouTube",
+					"url": "https://www.youtube.com/channel/UCLr5zAesggUSXlLd9J6vfjw"
+				},
+				{
+					"name": "Twitter",
+					"url": "https://twitter.com/kirb_captain"
+				}
+			]
+		},
+		{
+			"name": "Frakits",
+			"role": "Guy who supplied shaders.",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "Twitter",
+				"url": "https://twitter.com/Frakitspeerat"
+			}]
+		},
+		{
+			"name": "Snart Studios",
+			"role": "The guy who made the custom main menu script.",
+			"icon": "credits/snart",
+			"urls": [{
+				"name": "YouTube",
+				"url": "https://www.youtube.com/channel/UCOrdhReVkD78kJDvtUVBaYQ"
+			}]
+		},
+		{
+			"name": "BeatBattle.hx",
+			"role": "real w here (No real links, EXE intro code.)",
+			"icon": "credits/empty",
+			"urls": [{
+				"name": "Original Message",
+				"url": "https://discord.com/channels/860561967383445535/954065899399282708/960664815485980693"
+			}]
+		},
+		{
+			"name": "SIG7's Misc",
+			"role": "Join my Discord Server, or follow my Twitter! (I couldn't put myself in credits.)",
+			"icon": "credits/SIG7",
+			"urls": [{
+					"name": "Discord Server",
+					"url": "https://discord.gg/atF78YbnQ2"
+				},
+				{
+					"name": "Twitter",
+					"url": "https://twitter.com/SIG7Profficial"
+				},
+				{
+					"name": "Twitter (FNF Electro Flip)",
+					"url": "https://twitter.com/FNFElectro"
+				}
+			]
+		}
+	]
+}

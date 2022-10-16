@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "NickRoom",
+		"player1": "bf",
+		"player2": "Upsetnick",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"CamFollow",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"Play Animation",
+						"Angy",
+						"Dad"
+					]
+				]
+			],
+			[
+				52725,
+				[
+					[
+						"Change Character",
+						"1",
+						"Madnick"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bouncy"
+	}
+}

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pscyho.png"><SubTexture name="Pscyho Down0000" x="3167" y="1994" width="318" height="613" frameX="0" frameY="0" frameWidth="318" frameHeight="613" />
+<SubTexture name="Pscyho Down0001" x="0" y="2769" width="318" height="603" frameX="0" frameY="0" frameWidth="318" frameHeight="603" />
+<SubTexture name="Pscyho Down0002" x="318" y="2769" width="318" height="603" frameX="0" frameY="0" frameWidth="318" frameHeight="603" />
+<SubTexture name="Pscyho Left0000" x="2492" y="2094" width="264" height="671" frameX="0" frameY="0" frameWidth="264" frameHeight="671" />
+<SubTexture name="Pscyho Left0001" x="1175" y="2094" width="266" height="673" frameX="0" frameY="0" frameWidth="266" frameHeight="673" />
+<SubTexture name="Pscyho Right0000" x="1441" y="2094" width="434" height="673" frameX="0" frameY="0" frameWidth="434" frameHeight="673" />
+<SubTexture name="Pscyho Down-Alr0000" x="3167" y="0" width="449" height="668" frameX="0" frameY="0" frameWidth="449" frameHeight="668" />
+<SubTexture name="Pscyho Left-Alt0000" x="1358" y="0" width="554" height="699" frameX="0" frameY="0" frameWidth="554" frameHeight="699" />
+<SubTexture name="Pscyho RightAlt0000" x="488" y="0" width="523" height="706" frameX="0" frameY="0" frameWidth="523" frameHeight="706" />
+<SubTexture name="Pscyho Swirl0000" x="998" y="720" width="501" height="675" frameX="0" frameY="0" frameWidth="501" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0001" x="1696" y="1419" width="505" height="675" frameX="0" frameY="0" frameWidth="505" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0002" x="2336" y="0" width="540" height="675" frameX="0" frameY="0" frameWidth="540" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0003" x="2336" y="675" width="539" height="675" frameX="0" frameY="0" frameWidth="539" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0004" x="2336" y="1350" width="531" height="675" frameX="0" frameY="0" frameWidth="531" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0005" x="1912" y="0" width="424" height="675" frameX="0" frameY="0" frameWidth="424" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0006" x="1912" y="675" width="424" height="675" frameX="0" frameY="0" frameWidth="424" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0007" x="0" y="1419" width="424" height="675" frameX="0" frameY="0" frameWidth="424" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0008" x="424" y="1419" width="424" height="675" frameX="0" frameY="0" frameWidth="424" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0009" x="848" y="1419" width="424" height="675" frameX="0" frameY="0" frameWidth="424" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0010" x="1272" y="1419" width="424" height="675" frameX="0" frameY="0" frameWidth="424" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0011" x="0" y="2094" width="424" height="675" frameX="0" frameY="0" frameWidth="424" frameHeight="675" />
+<SubTexture name="Pscyho Swirl0012" x="424" y="2094" width="462" height="675" frameX="0" frameY="0" frameWidth="462" frameHeight="675" />
+<SubTexture name="Pscyho Up 0000" x="360" y="720" width="352" height="699" frameX="0" frameY="0" frameWidth="352" frameHeight="699" />
+<SubTexture name="Pscyho Up 0001" x="1011" y="0" width="347" height="702" frameX="0" frameY="0" frameWidth="347" frameHeight="702" />
+<SubTexture name="Pscyho Up 0002" x="0" y="720" width="360" height="699" frameX="0" frameY="0" frameWidth="361" frameHeight="699" />
+<SubTexture name="Pscyho Idle0000" x="1875" y="2094" width="276" height="672" frameX="0" frameY="0" frameWidth="276" frameHeight="672" />
+<SubTexture name="Pscyho Idle0001" x="1499" y="720" width="281" height="674" frameX="0" frameY="0" frameWidth="281" frameHeight="674" />
+<SubTexture name="Pscyho Idle0002" x="712" y="720" width="286" height="675" frameX="0" frameY="0" frameWidth="286" frameHeight="675" />
+<SubTexture name="Pscyho Idle0003" x="886" y="2094" width="289" height="673" frameX="0" frameY="0" frameWidth="289" frameHeight="673" />
+<SubTexture name="Pscyho Idle0004" x="2876" y="0" width="291" height="670" frameX="0" frameY="0" frameWidth="291" frameHeight="670" />
+<SubTexture name="Pscyho Idle0005" x="3167" y="668" width="290" height="663" frameX="0" frameY="0" frameWidth="290" frameHeight="663" />
+<SubTexture name="Pscyho Idle0006" x="2876" y="670" width="288" height="668" frameX="0" frameY="0" frameWidth="288" frameHeight="668" />
+<SubTexture name="Pscyho Idle0007" x="2876" y="1338" width="284" height="668" frameX="0" frameY="0" frameWidth="284" frameHeight="668" />
+<SubTexture name="Pscyho Idle0008" x="3167" y="1331" width="277" height="663" frameX="0" frameY="0" frameWidth="277" frameHeight="663" />
+<SubTexture name="Pscyho Up-Alt0000" x="0" y="0" width="488" height="720" frameX="0" frameY="0" frameWidth="488" frameHeight="720" />
+<SubTexture name="Pscyho Idle-ALr0000" x="2151" y="2094" width="341" height="672" frameX="0" frameY="0" frameWidth="341" frameHeight="672" />
+</TextureAtlas>

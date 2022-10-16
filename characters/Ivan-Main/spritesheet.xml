@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="IvanMain.png"><SubTexture name="IvanMain idle dance0000" x="0" y="0" width="370" height="636" frameX="-46" frameY="-93" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain idle dance0001" x="370" y="0" width="360" height="631" frameX="-47" frameY="-98" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain idle dance0002" x="730" y="0" width="355" height="628" frameX="-47" frameY="-101" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain idle dance0003" x="1565" y="0" width="349" height="624" frameX="-47" frameY="-105" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain idle dance0004" x="730" y="0" width="355" height="628" frameX="-47" frameY="-101" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain idle dance0005" x="370" y="0" width="360" height="631" frameX="-47" frameY="-98" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain RIGHT NOTE instance0000" x="1085" y="0" width="480" height="628" frameX="0" frameY="-129" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain RIGHT NOTE instance0001" x="934" y="636" width="454" height="625" frameX="0" frameY="-132" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain RIGHT MISS instance0000" x="0" y="636" width="480" height="628" frameX="0" frameY="-129" frameWidth="500" frameHeight="800" />
+<SubTexture name="IvanMain RIGHT MISS instance0001" x="480" y="636" width="454" height="626" frameX="0" frameY="-131" frameWidth="500" frameHeight="800" />
+</TextureAtlas>

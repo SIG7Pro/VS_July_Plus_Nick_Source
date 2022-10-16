@@ -1,0 +1,39 @@
+{
+	"discordRpc": "1018703268458807357",
+	"skinnableGFs": [
+		"gf",
+		"gf-car",
+		"gf-christmas",
+		"gf-philly"
+	],
+	"locked": false,
+	"BFskins": [
+		{
+			"char": "bf",
+			"name": "Boyfriend"
+		}
+	],
+	"downloadLink": null,
+	"keyNumbers": [
+		8
+	],
+	"name": "VS July Plus Nick",
+	"description": "A fanmade, high effort remake/port of VS July, VS Nick, VS Nick Remastered, and VS Trey with some eXtra stuff! Original mods by July2612 (aka JukuaGenesis), NickPlayz1000, and TreyBWN. Mod compiled by SIG7; the rest of the people who helped/had some involvement are credited in credits. Stay safe!",
+	"skinnableBFs": [
+		"bf",
+		"bf-car",
+		"bf-christmas",
+		"bf-dead",
+		"pixelbf",
+		"pixelbf-dead",
+		"exbf"
+	],
+	"titleBarName": "VS July",
+	"downloadLinkAlt": null,
+	"GFskins": [
+		{
+			"char": "gf",
+			"name": "Girlfriend"
+		}
+	]
+}

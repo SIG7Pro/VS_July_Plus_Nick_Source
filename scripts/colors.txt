@@ -1,0 +1,13 @@
+Base Color:
+R, 249
+G, 207
+B, 81
+Light Color:
+R 183
+G 152
+B 57
+
+Dark Color:
+R: 124
+G: 103
+B: 39

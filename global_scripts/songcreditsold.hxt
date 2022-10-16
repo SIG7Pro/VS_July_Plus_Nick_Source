@@ -1,0 +1,29 @@
+var creditJson = Paths.parseJSON(SONG.song.toLowerCase() + 'credit')
+function create() {
+    var diamondBG = new FlxSprite(640, -300).loadGraphic(Paths.image('diamondBG'));
+    var art = new FlxSprite(600, 300).loadGraphic(Paths.image('art'));
+    var song = new FlxSprite(600, 310).loadGraphic(Paths.image('song'));
+    var midi = new FlxSprite(600, 320).loadGraphic(Paths.image('midi'));
+    var code = new FlxSprite(600, 330).loadGraphic(Paths.image('code'));
+    var artTXT = new FlxText(640, 300, 0, creditJson.art);
+    var songTXT = new FlxText(640, 300, 0, creditJson.song);
+    var midiTXT = new FlxText(640, 300, 0, creditJson.midi);
+    var codeTXT = new FlxText(640, 300, 0, creditJson.code);
+    diamondBG.angle = -90;
+    art.alpha = 0;
+    song.alpha = 0;
+    midi.alpha = 0;
+    code.alpha = 0;
+    artTXT.alpha = 0;
+    songTXT.alpha = 0;
+    midiTXT.alpha = 0;
+    codeTXT.alpha = 0;
+    FlxTween.tween(art, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(art, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(song, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(song, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(midi, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(midi, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(code, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(code, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(artTXT, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(artTXT, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(songTXT, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(songTXT, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(midiTXT, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(midiTXT, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(codeTXT, {alpha: 100}, 0.5, {startDelay: 0.5, onComplete: function(twn:FlxTween) {FlxTween.tween(codeTXT, {alpha:0}, 0.5, {startDelay: 0.5})}});
+    FlxTween.tween(diamondBG, {y: 280, angle: 0}, 0.5, {ease: FlxEase.backOut, onComplete: function(twn:FlxTween) { new FlxTimer().start(2, function(tmr:FlxTimer) { FlxTween.tween(diamondBG, {alpha: 0}, 0.5) });}});

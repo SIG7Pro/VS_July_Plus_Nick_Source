@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nick.png">
+<SubTexture name="Nick Idle Instance0000" x="151" y="0" width="45" height="99" frameX="-79" frameY="-35" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Idle Instance0001" x="260" y="99" width="42" height="98" frameX="-79" frameY="-36" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Idle Instance0002" x="0" y="208" width="41" height="98" frameX="-79" frameY="-36" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Idle Instance0003" x="84" y="208" width="44" height="94" frameX="-79" frameY="-40" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Idle Instance0004" x="107" y="0" width="44" height="100" frameX="-79" frameY="-34" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Left Instance0000" x="196" y="0" width="64" height="99" frameX="-65" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Left Instance0001" x="0" y="109" width="64" height="99" frameX="-64" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Down Instance0000" x="41" y="208" width="43" height="98" frameX="-84" frameY="-51" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Down Instance0001" x="64" y="109" width="43" height="99" frameX="-84" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Right Instance0000" x="107" y="109" width="66" height="99" frameX="-70" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Right Instance0001" x="173" y="109" width="63" height="99" frameX="-70" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Right Instance0002" x="260" y="0" width="54" height="99" frameX="-70" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Up Instance0000" x="0" y="0" width="53" height="109" frameX="-70" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Nick Up Instance0001" x="53" y="0" width="54" height="107" frameX="-70" frameY="-52" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

@@ -1,0 +1,95 @@
+{
+	"songs": [
+		{
+			"difficulties": [
+				"Normal",
+				"Old"
+			],
+			"displayName": null,
+			"char": "july",
+			"name": "Slapper",
+			"color": "#9A0988",
+			"bpm": 180
+		},
+		{
+			"displayName": "Yes, Sonic is a rhythym gane indeed, Ms. July",
+			"difficulties": [
+				"Normal",
+				"Old"
+			],
+			"char": "july",
+			"name": "Sonic-Rhythm",
+			"color": "#212F67",
+			"bpm": 160
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "i dont know",
+			"char": "ivan-main",
+			"bpm": 150,
+			"name": "Bopeebo",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "nick",
+			"bpm": 132,
+			"name": "inceptive",
+			"color": "#F15B5B"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "nick",
+			"bpm": 132,
+			"name": "bouncy",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "(WIP!) Bit Fight",
+			"char": "psychonick",
+			"bpm": 160,
+			"name": "bit-fight",
+			"color": "#AD43AD"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal"
+			],
+			"displayName": "Dashless",
+			"char": "psychonick",
+			"bpm": 140,
+			"name": "you-cant-run",
+			"color": "#FFA9FF"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Testing",
+			"char": "bf",
+			"bpm": 140,
+			"name": "test",
+			"color": "#FFA9FF"
+		}
+	]
+}

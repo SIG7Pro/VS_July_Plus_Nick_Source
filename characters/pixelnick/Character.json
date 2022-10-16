@@ -1,0 +1,80 @@
+{
+	"arrowColors": [
+		"#C24B99",
+		"#00FFFF",
+		"#12FA05",
+		"#F9393F"
+	],
+	"camOffset": {
+		"x": -600,
+		"y": -520
+	},
+	"globalOffset": {
+		"x": 150,
+		"y": 380
+	},
+	"healthbarColor": "#FF0000",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 51,
+			"y": -59,
+			"anim": "Nick Idle Instance",
+			"loop": false,
+			"name": "idle",
+			"framerate": 6
+		},
+		{
+			"indices": null,
+			"x": 81,
+			"y": 31,
+			"anim": "Nick Down Instance",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 10
+		},
+		{
+			"indices": null,
+			"x": 57,
+			"y": 31,
+			"anim": "Nick Right Instance",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 117,
+			"y": 31,
+			"anim": "Nick Left Instance",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 12
+		},
+		{
+			"indices": null,
+			"x": 45,
+			"y": 91,
+			"anim": "Nick Up Instance",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 12
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": false,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 6
+}

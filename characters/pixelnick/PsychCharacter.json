@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-59
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Nick Idle Instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nick Up Instance"
+		},
+		{
+			"offsets": [
+				37,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nick Right Instance"
+		},
+		{
+			"offsets": [
+				97,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nick Left Instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nick Down Instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/NewPixel/Nick",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "nick-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		250,
+		37,
+		126
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,112 @@
+{
+	"songs": [
+		{
+			"scripts": [
+				"stages/room"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "slapper"
+		},
+		{
+			"scripts": [
+				"stages/room"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "sonic-rhythm"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "bit-fight-ex"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "bouncy-ex"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "inceptive-ex"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "nick-a-pocalypse"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "bopeebo"
+		},
+		{
+			"scripts": [
+				"stages/oldroom"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "slapper-old"
+		},
+		{
+			"scripts": [
+				"scripts/introjuly",
+				"stages/sonicexestage"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": "MP4-Cutscene.hx",
+			"name": "you-cant-run"
+		},
+		{
+			"scripts": [
+				"cutscenes/WIPMod",
+				"stages/nickroom-evil"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "bit-fight"
+		},
+		{
+			"scripts": [
+				"stages/nickroom"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "bouncy"
+		},
+		{
+			"scripts": [],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": "cutscenes/dialouge",
+			"name": "test"
+		},
+		{
+			"scripts": [
+				"stages/nickroom",
+				"ui/DialogueBox"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "inceptive"
+		}
+	]
+}

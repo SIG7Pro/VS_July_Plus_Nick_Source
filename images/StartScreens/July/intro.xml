@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="intro.png">
+<SubTexture name=" Intro0000" x="0" y="0" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0001" x="266" y="0" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0002" x="532" y="0" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0003" x="0" y="154" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0004" x="266" y="154" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0005" x="532" y="154" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0006" x="0" y="308" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0007" x="266" y="308" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0008" x="532" y="308" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0009" x="0" y="462" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0010" x="266" y="462" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Intro0011" x="532" y="462" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0000" x="0" y="616" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0001" x="266" y="616" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0002" x="532" y="616" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0003" x="0" y="770" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0004" x="266" y="770" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0005" x="532" y="770" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0006" x="0" y="924" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0007" x="266" y="924" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0008" x="532" y="924" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name=" Outro0009" x="0" y="1078" width="266" height="154" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+</TextureAtlas>

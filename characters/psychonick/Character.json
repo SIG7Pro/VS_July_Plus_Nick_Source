@@ -1,0 +1,134 @@
+{
+	"arrowColors": [
+		"#513E50",
+		"#3E4351",
+		"#3E5140",
+		"#513E40"
+	],
+	"camOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"globalOffset": {
+		"x": 70,
+		"y": 40
+	},
+	"healthbarColor": "#4F4F4F",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "PscyhoIdle-ALr",
+			"loop": false,
+			"name": "idle-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -4,
+			"y": -65,
+			"anim": "Pscyho Down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 242,
+			"y": 44,
+			"anim": "PscyhoRight-Alt",
+			"loop": false,
+			"name": "singRIGHT-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 72,
+			"y": 37,
+			"anim": "Pscyho Up ",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 116,
+			"y": 25,
+			"anim": "PscyhoLeft-Alt",
+			"loop": false,
+			"name": "singLEFT-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Pscyho Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 160,
+			"y": 12,
+			"anim": "Pscyho Right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 122,
+			"y": -4,
+			"anim": "PscyhoDown-Alr",
+			"loop": false,
+			"name": "singDOWN-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 69,
+			"y": 8,
+			"anim": "Pscyho Left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 140,
+			"y": 49,
+			"anim": "PscyhoUp-Alt",
+			"loop": false,
+			"name": "singUP-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 177,
+			"y": 15,
+			"anim": "Pscyho Swirl",
+			"loop": false,
+			"name": "Swirl",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": false,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}
